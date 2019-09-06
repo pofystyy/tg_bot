@@ -1,0 +1,3 @@
+require_relative 'lib/simple_number_sumator_bot'
+
+SimpleNumberSumatorBot.new
